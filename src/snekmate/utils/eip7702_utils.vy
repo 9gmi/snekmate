@@ -13,7 +13,7 @@
 
 
 # @dev The 3-byte EIP-7702 delegation prefix.
-_DELEGATION_PREFIX: constant(bytes3) = 0xEF_01_00
+_DELEGATION_PREFIX: constant(bytes3) = 0xEF0100
 
 
 @deploy
